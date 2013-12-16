@@ -1,11 +1,11 @@
 #textresizer.js
 
-i was looking for a plugin that resizing text on browser resize and with debounce hack added so i just made this. hope you can use it.
+i was looking for a plugin that resizing text on browser resize.
 
 To use this just make document ready and then run the function:
 
     $(function(){
-    $text.fitText(15, 120, 20);
+    	$text.fitText(15, 120, 20);
     });
     
 <b>Explained:</b>
