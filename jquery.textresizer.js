@@ -1,10 +1,4 @@
 /*
-	Small script that basicly does the same as fittext.js found at: https://github.com/davatron5000/FitText.js/blob/master/jquery.fittext.js
-	I have made it to an easy use fast to understand and faster executing script working on a pure javascript version
-	stay tune: Read my blog www.nomisweb.tk
-  or see this project on github: https://github.com/sp90/textResizer/
-
-	
 	By Simon Dragsbæk Petersen
 	Wanna write to me at 
 	simonpetersen3@hotmail.co.uk
