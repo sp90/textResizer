@@ -25,4 +25,4 @@ Simon Dragsbæk Petersen
 my **[BLOG][1]**
 
 
-  [1]: www.nomisweb.tk
+  [1]: www.nomis.dk
